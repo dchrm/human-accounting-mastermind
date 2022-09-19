@@ -6,20 +6,6 @@ import requests
 import json
 import config
 
-# add funcitons here to use inside the basic_api_requests() function
-def add_records_to_sql_database(array_of_rows,database,table,row_titles):
-
-    # check if list of rows is over the insert limit
-    if len(array_of_rows) > 1000:
-        
-        # split array into chunks of 1000
-
-
-        # for each array chunk, insert the rows to the database
-
-
-        pass
-
 # this function makes all the necessary requests to get a full list of vlaues from paganated api responses
 def basic_api_requests (request_perameters):
     
@@ -56,10 +42,3 @@ def basic_api_requests (request_perameters):
 
     # returns the rows from the value section of the api call
     return rows
-
-## this section will hold the code you want to actually execute
-# put your query parameters in the text section here
-api_reqeust_parameters = 'Timesheets?$filter=StartDate gt 2021-12-31&$expand=TimeEntries'
-
-# put your code here -- what do you wnat to do?
-basic_api_requests(api_reqeust_parameters)
