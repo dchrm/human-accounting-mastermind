@@ -11,7 +11,7 @@ from sqlalchemy.engine import URL
 import pandas as pd
 
 # template api request function for paginated api requests
-def qpi_request_tempalte (request_perameters):
+def qpi_request_tempalte(request_perameters):
     
     # define headers for the api request
     headers = {
@@ -54,7 +54,7 @@ def qpi_request_tempalte (request_perameters):
     
 
 # function requests timesheet and 
-def timesheet_api_request (request_perameters):
+def timesheet_api_request(request_perameters):
     
     # define headers for the api request
     headers = {
