@@ -12,3 +12,7 @@ BearerToken = ""
 
 # set base api url
 base_url = "https://api.karbonhq.com/V3/"
+
+# sql connection string
+sql_server_connection_string = ""
+max_rows = 1000
