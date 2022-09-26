@@ -92,6 +92,7 @@ def timesheet_api_request(request_perameters):
     
     # initalize the time entry dictionary
     time_entry_data = dict.fromkeys([
+        'TimesheetKey',
         'TimeEntryKey',
         'EntityKey',
         'WorkItemKey',
@@ -117,6 +118,11 @@ def timesheet_api_request(request_perameters):
 
             # remove descriptions from the data as we will not be adding this to the database
             time_entry.pop('Descriptions')
+
+            # add timesheet key
+            listval = list()
+            listval.append(timesheet['TimesheetKey'])
+            time_entry_data['TimesheetKey'].extend(listval)
             
             # add each value to the time_entry dictionary to prep for dataframe creation
             for key in time_entry:
@@ -134,8 +140,6 @@ def timesheet_api_request(request_perameters):
             listval = list()
             listval.append(timesheet[key])
             timesheet_data[key].extend(listval)
-
-    # delete existing values in the sql database
     
 
     # insert timesheet data for this page
