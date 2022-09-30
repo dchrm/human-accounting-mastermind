@@ -48,7 +48,7 @@ def api_request_template(request_perameters):
         next_parameters = json_object['@odata.nextLink'].split('V3/',1)
 
         # call this function again to get the rows from the next group
-        api_request_template(next_parameters[1])
+        values.extend(api_request_template(next_parameters[1]))
     
     # returns the values from the request
     return(values)
