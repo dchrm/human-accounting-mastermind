@@ -12,8 +12,9 @@ general setup steps i took:
  - subscribe to karbon work items and contacts webhooks sending the response to your azure logic app webhook handler
  - run python scripts to request data from the karbon api to seed your database with initial data
  
- what i with the system:
+ what i do with the system:
  - [released] connect Power BI desktop (direct query) to database and [in-progress] build meaningful data visualizations
+ - [planned] build on-boarding workflow for complex clients (business owners with multiple entities)
  - trigger bots to:
     - [released] ask humans to change the work type to something meaningufl when 'default' work type chosen
     - [planned] add note tempalte asking for details regarding external incoming and outgoing phone, teams, and zoom calls
