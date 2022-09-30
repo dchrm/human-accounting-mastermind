@@ -9,9 +9,10 @@ import pyodbc
 import sqlalchemy
 from sqlalchemy.engine import URL
 import pandas as pd
+from datetime import datetime, timezone
 
 # template api request function for paginated api requests
-def qpi_request_tempalte(request_perameters):
+def api_request_template(request_perameters):
     
     # define headers for the api request
     headers = {
@@ -47,14 +48,76 @@ def qpi_request_tempalte(request_perameters):
         next_parameters = json_object['@odata.nextLink'].split('V3/',1)
 
         # call this function again to get the rows from the next group
-        timesheet_api_request(next_parameters[1])
+        api_request_template(next_parameters[1])
     
     # returns the values from the request
     return(values)
     
+def create_data_frame(columns_to_keep,list_of_values):
+
+    # create empty dictionary to use to build the data frame
+    columns = dict.fromkeys(columns_to_keep)
+
+    # make each column in the dictonary a list
+    for column in columns:
+        columns[column] = []
+
+    # work with each work item
+    for value in list_of_values:
+
+        # work with each line in the work item
+        for line in value:
+            
+            # add the item if it's included in the list of columns passed to the function
+            if line in columns_to_keep:
+
+                # create a list
+                listval = list()
+
+                # convert the line to a list item
+                listval.append(value[line])
+
+                # extend the list item to the dictionary list
+                columns[line].extend(listval)
+
+    return columns
+
+def create_data_frame_flow(columns_to_keep,list_of_values):
+
+    # create empty dictionary to use to build the data frame
+    columns = dict.fromkeys(columns_to_keep)
+
+    # make each column in the dictonary a list
+    for column in columns:
+        columns[column] = []
+
+    # work with each work item
+    for value in list_of_values:
+
+        # add value for update date
+        last_updated_value = list()
+        last_updated_value.append(datetime.now(timezone.utc))
+        columns["LastUpdateDateTime"].extend(last_updated_value)
+
+        # work with each line in the work item
+        for line in value:
+            
+            # add the item if it's included in the list of columns passed to the function
+            if line in columns_to_keep:
+
+                # create a list
+                listval = list()
+
+                # convert the line to a list item
+                listval.append(value[line])
+
+                # extend the list item to the dictionary list
+                columns[line].extend(listval)
+
+    return columns
 
 # function requests timesheet and 
-def timesheet_api_request(request_perameters):
+def timesheet_api_request(request_perameters,datetime_columns):
     
     # define headers for the api request
     headers = {
@@ -145,7 +208,8 @@ def timesheet_api_request(request_perameters):
     # insert timesheet data for this page
     sql_insert(
         'dim_timesheets',
-        timesheet_data
+        timesheet_data,
+        datetime_columns
     )
 
     # insert time entry data for this page
@@ -161,10 +225,10 @@ def timesheet_api_request(request_perameters):
         next_parameters = json_object['@odata.nextLink'].split('V3/',1)
 
         # this calls this same function again to get the rows from the next group
-        timesheet_api_request(next_parameters[1])
+        timesheet_api_request(next_parameters[1],datetime_columns)
 
 # function uses pandas to insert data to a database table
-def sql_insert(table,data_rows):
+def sql_insert(table,data_rows,datetime_columns=[]):
 
     # create the connection url
     connection_url = URL.create(
@@ -182,6 +246,10 @@ def sql_insert(table,data_rows):
 
     # convert input to dataframe
     df = pd.DataFrame(data_rows)
+
+    # convert datetime for sql input
+    for col in datetime_columns:
+        df[col] = pd.to_datetime(df[col])
 
     # insert the data to the database
     df.to_sql(
