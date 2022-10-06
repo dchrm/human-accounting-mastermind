@@ -1,0 +1,1793 @@
+{
+    "fields": [
+    {
+      "id": "l2bvbMOoNccQ",
+      "title": "General Information",
+      "ref": "e0986bd0-872e-4b09-a1a7-b5f82bfbf91c",
+      "properties": {
+        "description": "In this section, we'll get some basic information.",
+        "button_text": "Let's start",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "JLO0FZG9hhSZ",
+            "title": "Engagement Legal Acceptance",
+            "ref": "813b42fd-f834-45b8-a66d-ebd387de523a",
+            "properties": {
+              "description": "Avrio Solutions, LLC (“firm,” “we,” “us,” or “our”) is pleased to provide {{hidden:client_name}} (“you” or “your”) with the professional services described below. \n\nThis letter and any other attachments incorporated herein (collectively, “Agreement”) confirm our understanding of the terms and objectives of our engagement and the nature and limitations of the services we will provide. The terms of the Agreement will govern the engagement between you and our firm.\n\n\n*Engagement Objective and Scope*\nWe will prepare your Federal Form 1040 and any associated state income tax forms for the year ending December 31, 2021\n\nWe will only prepare the tax returns identified above after receiving the requested information indicating your acceptance of this Agreement. We will prepare your tax returns based on the information and representations you provide to us. We have not been engaged to and will not prepare financial statements. We will not audit or otherwise verify the data you submit to us, although we may ask you to clarify certain information.\n\nAs identified above, we will prepare the above-referenced tax returns solely for filing with the Internal Revenue Service (“IRS”) and state and local tax authorities. Our work is not intended to benefit or influence any third party, either to obtain credit or for any other purpose.\n\nYou agree to indemnify and hold us harmless for any and all claims arising from the use of the tax returns for any purpose other than filing with the IRS and state and local tax authorities regardless of the nature of the claim, including the negligence of any party.\n\nOur engagement does not include any procedures designed to detect errors, fraud, or theft. Therefore, our engagement cannot be relied upon to disclose such matters. In addition, we are not responsible for identifying or communicating deficiencies in your internal controls. You are responsible for developing and implementing internal controls applicable to your operations.\n\nThis engagement is limited to the professional services outlined above.\n\n*CPA Firm Responsibilities*\nUnless otherwise noted, we will perform our services per the Statements on Standards for Tax Services (“SSTSs”) issued by the American Institute of Certified Public Accountants (“AICPA”) and U.S. Treasury Department Circular 230 (“Circular 230”). We must perform services with the same standard of care that a reasonable tax return preparer would exercise in this type of engagement. It is your responsibility to safeguard your assets and maintain accurate records of transactions. We will not hold your property in trust for you or otherwise accept fiduciary duties in the performance of the engagement.\n\nWe will prepare your tax returns based upon your filing status (single, married filing jointly, married filing separately, head of household, or qualifying widow[er] with dependent child) as reflected in your income tax returns for last year. If your filing status has changed, you wish to change your filing status, or you have questions about your filing status, please contact us immediately.\n\n_Confidentiality_\nIf the tax returns prepared in connection with this engagement are filed using the married filing jointly filing status, both spouses are deemed clients of the firm under the terms of this Agreement. Both individuals acknowledge that there is no expectation of privacy from the other spouse concerning our services in connection with this Agreement. We are at liberty to share with either of you, without the prior consent of the other, documents and additional information concerning the preparation of your tax returns.\n\n\n_Estimated tax payments_\nYou may be required to make quarterly estimated tax payments. We will calculate these payments for the 2022 tax year based on your information to prepare your 2021 tax returns (the “safe harbor” rule). Updating recommended payments to more closely reflect your actual current year’s income is not within the scope of this engagement. If you would like us to provide this service, we will confirm this update in a separate engagement letter.\n\n_Tax planning services_\nTax planning services are not within the scope of this engagement. While preparing the tax returns identified above, we may bring to your attention potential tax savings strategies for you to consider as a possible means of reducing your taxes in subsequent tax years. However, we have no responsibility to do so and will take no action concerning such recommendations, as the responsibility for implementation remains with you, the taxpayer. We will confirm this representation in a separate engagement letter if you ask us to provide tax planning services.\n\n_Government inquiries_\nThis engagement does not include responding to any governmental agency or tax authority inquiries. If your tax return is selected for examination or audit, you may request our assistance in responding to such an inquiry. We will confirm this representation in a separate engagement letter if you ask us to represent you.\n\n_Third-party requests_\nWe will not respond to any request from banks, mortgage brokers, or others to verify any information reported on these tax returns. We do not communicate with third parties or provide them with copies of tax returns.\n\n*Client Responsibilities*\nWe will provide you with an income tax organizer to help you compile and document the information necessary to prepare your income tax returns. You must complete the income tax organizer with accurate and complete information. Income from all sources, including those outside the U.S., is required.\nWe rely upon the accuracy and completeness of the information and other supporting data you provide to render professional services.\n\n_Documentation_\nYou are responsible for maintaining adequate documentation to substantiate the accuracy and completeness of your tax returns. You should retain all documents that provide evidence and support for reported income, credits, and deductions on your returns, as required under applicable tax laws and regulations. You are responsible for the adequacy of all information provided in such documents. You represent that you have such documentation and can produce it, if necessary, to respond to any audit or inquiry by tax authorities. You agree to hold our firm harmless from any liability, including but not limited to additional tax, penalties, interest, and professional fees resulting from the disallowance of tax deductions due to inadequate documentation.\n\n_Gift Tax Returns_\nThe IRS considers a gift to be any transfer to an individual, either directly or indirectly, where full consideration (measured in money or money’s worth) is not received in return. Under federal tax law, certain gifts are taxable and subject to an annual gift tax exclusion amount, which for 2021 is $15,000 per taxpayer. You are responsible for informing us if gift tax returns must be filed. We will confirm this representation in a separate engagement letter if you ask us to prepare these returns.\n\n_Gifts received from foreign persons_\nSuppose you received a gift or bequest from a foreign person or trust. In that case, you might be required to file a separate IRS Form 3520, Annual Return To Report Transactions With Foreign Trusts and Receipt of Certain Foreign Gifts, or 3520-A, Annual Information Return of Foreign Trust with a U.S. Owner. If you ask us to prepare this return, we will confirm this in a separate engagement letter.\n\n_Personal expenses_\nYou are responsible for ensuring that personal expenses, if any, are segregated from business expenses and that expenses such as meals, travel, vehicle use, gifts, and related expenses are supported by necessary records required by the IRS and other tax authorities. At your written request, we can provide you with written answers to your questions on the types of supporting records required.\nState and local filing obligations\n\nOn June 21, 2018, the U.S. Supreme Court reversed the long-standing physical presence nexus standard in South Dakota v. Wayfair, Inc., et al. This decision significantly changed the landscape of sales and use tax compliance, especially for online sellers. If you wish to understand the decision’s impact on your business, we will confirm this in a separate engagement letter. The scope of our services under this engagement letter does not include services related to your compliance with other tax obligations.\n\nYou are responsible for determining your tax filing obligations with any state or local tax authorities, including but not limited to income, franchise, sales, use, property, or unclaimed property taxes. If, upon review of the information you have provided to us, including information that comes to our attention, we believe that you may have additional filing obligations, we will notify you. You acknowledge that any other filing obligations are not within the scope of this engagement. We will confirm this representation in a separate engagement letter if you ask us to prepare these returns.\n\n_U.S. filing obligations related to foreign investments_\nAs part of your filing obligations, you may be required to make certain information disclosures related to your foreign investments. You are responsible for informing us of all foreign assets owned directly or indirectly, including but not limited to financial accounts with foreign institutions and ownership of any foreign entities, regardless of amount.\n\nBased on the information you provide, you may have additional filing obligations including but not limited to:\n•\tOwnership of or an officer relationship to certain foreign corporations (Form 5471);\n•\tForeign-owned U.S. corporation or domestic disregarded entity (Form 5472);\n•\tForeign corporation engaged in a U.S. trade or business (Form 5472);\n•\tU.S. transferor of property to a foreign corporation (Form 926);\n•\tU.S. person with an interest in a foreign trust (Forms 3520 and 3520-A);\n•\tU.S. person with interests in a foreign partnership (Form 8865); or\n•\tU.S. person with interests in a foreign disregarded entity (Form 8858).\n\nIf we believe you have additional filing requirements, we will discuss them with you before completing your tax return.\n\nIn addition, as part of your filing obligations, you are required to report the maximum value of specified foreign financial assets, which include financial accounts with foreign institutions and certain other foreign non-account investment assets that exceed certain thresholds.\n\nBased upon the information you provide, we will use this data to inform you of any additional filing requirements, which may include Form 8938, Statement of Specified Foreign Assets, FinCEN Form 114, Report of Foreign Bank, and Financial Accounts (“FBAR”). The FBAR is not a tax return, and its preparation is not within the scope of this engagement. If you ask us to prepare the FBAR, we will confirm this representation in a separate engagement letter.\n\nFailure to timely file the required forms may result in substantial civil and/or criminal penalties. You agree to provide us with complete and accurate information regarding any foreign investments you have a direct or indirect interest in or over which you have signature authority during the above-referenced tax year. \n\nThe foreign reporting requirements are very complex. If you have any questions regarding applying the reporting requirements for your foreign interests or activities, please ask us. We assume no liability for penalties associated with the failure to file or untimely filing of any of these forms.\n\n_Virtual Currency_\nThe IRS considers virtual currency (e.g., Bitcoin) as property for U.S. federal income tax purposes. As such, any transactions in, or transactions that use, virtual currency are subject to the same general tax principles that apply to other property transactions.\n\nIf you had virtual currency activity during the tax year, you may be subject to tax consequences associated with such transactions and may have additional reporting obligations. You agree to provide us with complete and accurate information regarding any transactions in, or transactions that have used, virtual currency during the applicable tax year.\n\n_Other income, losses, and expenses_\nIf you realized income, loss, or expense from a business or supplemental income or loss, the reporting requirements of federal and state income tax authorities apply to such income, loss, or expense. You are responsible for complying with all applicable laws and regulations about such operations, including classifying workers as employees or independent contractors and related payroll tax and withholding requirements.\n\n_Ultimate responsibility_\nYou have final responsibility for the accuracy of your tax returns. As applicable, we will provide you with a copy of your electronic tax returns and accompanying schedules and statements for review before filing with the IRS and state and local tax authorities. You agree to review and examine them carefully for accuracy and completeness.\n\nYou will be required to verify and sign a completed Form 8879, IRS e-file Signature Authorization, and any similar state and local equivalent authorization form before your returns can be filed electronically. If you do not sign Form 8879, we will require you to come to our office to pick up your returns so that you can mail the returns to the appropriate filing authorities.\n\nIf you do not wish to have your tax returns filed electronically, please contact our firm. Additional procedures will apply. You will be responsible for reviewing the paper returns for accuracy, signing them, and filing them timely with the tax authorities.\n\n*Timing of the Engagement*\nWe expect to begin our services after we receive your 2021 income tax documents and information.\n\nOur services will conclude upon the earlier of:\n•\tthe filing and acceptance of your 2021 tax returns by the appropriate tax authorities and mailing or delivery of non-electronically filed tax returns (if any) for your review and filing with the relevant tax authorities,\n•\twritten notification by either party that the engagement is terminated, or \n•\tone (1) year from the execution date of this Agreement.\n\n*Extensions of Time to File Tax Returns*\nDue to the high volume of tax returns prepared by our firm, the information needed to complete the tax returns must be received no later than March 15, 2022, so that the returns may be completed by the original filing due dates.\n\nIt may become necessary to apply for an extension of the filing deadline if there are unresolved issues or delays in processing or if we do not receive all of the required information from you on a timely basis. Applying for an extension of time to file may extend the time available for a government agency to undertake an audit of your return or may extend the statute of limitations to file a legal action. All taxes owed are due by the original filing due date. Additionally, extensions may affect your liability for penalties and interest or compliance with governmental or other deadlines.\n\nTo the extent you wish to engage our firm to apply for extensions of time to file tax returns on your behalf, you must notify us of this request, preferably in writing. Our firm will not file these applications unless we receive your express written authorization to file for an extension. In some cases, you may need to sign such applications before filing. Failure to timely request an extension of time to file can result in penalties for failure to file tax returns, which accrue from the original due date of the returns and can be substantial.\n\nWe are available to discuss this matter with you at your request. Additional charges will apply for such services.\n\n*Penalties and Interest Charges*\nFederal, state, and local tax authorities impose various penalties and interest charges for non-compliance with tax laws and regulations, including failure to file or late filing returns and underpayment of taxes. You, as the taxpayer, remain responsible for the payment of all tax, penalties, and interest charges imposed by tax authorities.\n\nWe rely on the accuracy and completeness of the information you provide to us in connection with the preparation of your tax returns. Failure or inadequate disclosure of income or tax positions may result in penalties and interest charges.\n\n\n*Professional Fees*\nOur professional fee for the services outlined above is based upon the complexity of the work to be performed and our professional time, as well as out-of-pocket expenses. In addition, this fee depends upon the timely delivery, availability, quality, and completeness of the information you provide to us. You agree that you will deliver all records requested and respond to all inquiries made by our staff to complete this engagement on a timely basis. You agree to pay all fees and expenses incurred whether or not we prepare the tax returns.\nWe appreciate the opportunity to serve you. To accept our firm’s offer to perform services based on the terms outlined in this Agreement, forward the completed tax questionnaire, documents, and other tax return information we request to us. By doing so, you agree to be bound by the terms set forth above."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "legal"
+          },
+          {
+            "id": "L9IkI0NUy5hR",
+            "title": "Dependent",
+            "ref": "89f67103-73e1-473b-9b5a-009256f6d531",
+            "properties": {
+              "description": "Can you be claimed as a dependent by another taxpayer?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "MEAnbtETM1Z1",
+            "title": "Email Address",
+            "ref": "932035f4-a05c-4df7-b688-0f06aefafd81",
+            "properties": {
+              "description": "What's the best email address to use to contact you?\nFeel free to skip if it hasn't changed."
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "email"
+          },
+          {
+            "id": "YghD7tb3cQ2K",
+            "title": "Phone Number",
+            "ref": "acb82b1c-d16e-4f7c-9f24-ca941589dcc8",
+            "properties": {
+              "description": "What's the best phone number to use for urgent tax questions?\nWe'll update our records accordingly.",
+              "default_country_code": "us"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "phone_number"
+          },
+          {
+            "id": "OJ4T4xyP6t41",
+            "title": "Questionnaire Preferences",
+            "ref": "43924fa3-21df-4fe3-aae1-501fe0b4c1b3",
+            "properties": {
+              "description": "Every year the tax laws change, so we ask a series of questions to make sure that we can complete your tax return correctly.\n\nHow would you like to answer these questions?",
+              "randomize": false,
+              "allow_multiple_selection": false,
+              "allow_other_choice": false,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "Ehde8OXZoL1f",
+                  "ref": "1e565e7d-8c5a-4f60-a117-4b6b37cae464",
+                  "label": "Answer questions online now and upload documents online"
+                },
+                {
+                  "id": "xfoElUcRYKAA",
+                  "ref": "a4c5dc7e-2574-4e82-97ea-c61b95b2dabd",
+                  "label": "Answer questions over the phone and upload my documents online"
+                },
+                {
+                  "id": "wBIsLAb3TQhm",
+                  "ref": "fb9f9067-67c1-4576-9f70-673b83e8fe7b",
+                  "label": "Complete the questionnaire in-office and drop off my documents"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "c8IZxOSC0Fnl",
+            "title": "Phone Questionnaire",
+            "ref": "5e15fb92-ac9f-4e9c-9096-f5141383e8ad",
+            "properties": {
+              "description": "{{hidden:preferred_name}}, please pick a time for one of our staff to call you so we can complete the questionnaire over the phone together. 😀\n\nFor the quickest and smoothest questionnaire experience, please have all of your tax documents and information available to review over the phone."
+            },
+            "application": {
+              "id": "calendly",
+              "application_block_id": "13845225-6b49-477e-ab35-a8ca2259b269",
+              "installation_id": "4868e8e9-e9bf-4c5d-9797-1889ee3b93de",
+              "iframe_url": "https://api.typeform.com/applications/calendly/installations/4868e8e9-e9bf-4c5d-9797-1889ee3b93de/iframe/13845225-6b49-477e-ab35-a8ca2259b269",
+              "inputs": [
+                {
+                  "value": "{{hidden:contact_name}}",
+                  "label": "Name",
+                  "ref": "name"
+                },
+                {
+                  "value": "{{field:932035f4-a05c-4df7-b688-0f06aefafd81}}",
+                  "label": "Email",
+                  "ref": "email"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "calendly"
+          },
+          {
+            "id": "l3HrfF4fRqhf",
+            "title": "In-person Questionnaire & Document Drop-off",
+            "ref": "d2269164-b524-4536-b448-542915bf6bad",
+            "properties": {
+              "description": "{{hidden:preferred_name}}, please pick a time to come into the office to drop off your documents and complete your questionnaire in person. 😀"
+            },
+            "application": {
+              "id": "calendly",
+              "application_block_id": "2aa9bdb0-d1f7-49c1-a14d-bb6433a4ccc5",
+              "installation_id": "4868e8e9-e9bf-4c5d-9797-1889ee3b93de",
+              "iframe_url": "https://api.typeform.com/applications/calendly/installations/4868e8e9-e9bf-4c5d-9797-1889ee3b93de/iframe/2aa9bdb0-d1f7-49c1-a14d-bb6433a4ccc5",
+              "inputs": [
+                {
+                  "value": "{{hidden:contact_name}}",
+                  "label": "Name",
+                  "ref": "name"
+                },
+                {
+                  "value": "{{field:932035f4-a05c-4df7-b688-0f06aefafd81}}",
+                  "label": "Email",
+                  "ref": "email"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "calendly"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "UCrmKUlxo3Mc",
+      "title": "Personal Information",
+      "ref": "4176eeba-3b40-43df-bde9-6b994da43f40",
+      "properties": {
+        "description": "Thanks for picking a consultation, {{hidden:preferred_name}}. We'll update some personal information in this section. Please have your tax documents ready.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "IixzMLJKZIVW",
+            "title": "Previous Unpaid Taxes",
+            "ref": "24d19c36-5030-4c67-be87-4ab588d9c6f2",
+            "properties": {
+              "description": "Do you have previous years of tax returns that are either un-filed or filed with unpaid balances due?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "YGWP0iOvNU2L",
+            "title": "Tax-related Correspondence",
+            "ref": "5c44ce91-b243-4f1c-a566-ea8ede7d42cd",
+            "properties": {
+              "description": "Did you receive correspondence from the State or the IRS?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "oLxFa3U2hqDF",
+            "title": "Federal Disaster Area",
+            "ref": "196298b5-b4d4-47d2-99fa-09b55fb92bab",
+            "properties": {
+              "description": "Did you reside in or operate a business in a Federally declared disaster area?\nLink to list of disaster areas: [https://www.fema.gov/disaster/declarations](https://www.fema.gov/disaster/declarations)"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "bRRafGXGLIqL",
+            "title": "New Jersey Rent",
+            "ref": "a08379b0-628e-49d2-9153-1dfec8785adf",
+            "properties": {
+              "description": "Do you live and pay rent in New Jersey?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "0SWTVJleXEpO",
+            "title": "How much rent did you pay in total for the year?",
+            "ref": "9cc3796d-cfdd-427a-80bc-d58444d24256",
+            "properties": {},
+            "validations": {
+              "required": true
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "Zlmonb6PFMgd",
+            "title": "Permanent Address Change",
+            "ref": "db12ac0f-bd1b-4147-a708-914a6264da78",
+            "properties": {
+              "description": "Has your permanent address changed?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "bJzVN44KwirC",
+            "title": "Updated Permanent Address",
+            "ref": "b2793164-1caa-4da8-a78a-782dd2755512",
+            "properties": {
+              "description": "Great! What's your new permanent address?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "V9vg4phD2pBn",
+            "title": "Mailing Address Change",
+            "ref": "2aa9469a-ca51-4554-bbbd-448272f2cafa",
+            "properties": {
+              "description": "Has your mailing address changed?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "DucQP622GRN0",
+            "title": "Updated Mailing Address",
+            "ref": "b58ddb99-a6e0-442d-953f-1f100e703a08",
+            "properties": {
+              "description": "Thanks! What's your new mailing address?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "YejHbzp2T2QH",
+            "title": "Bank Account Change",
+            "ref": "2cf9e3d6-8c4d-42ab-8fa5-ae4ce0a95008",
+            "properties": {
+              "description": "Has your bank account or routing number changed in the last year?\nThis is important for paying your taxes or getting your refund quickly."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "SUqlSynlrcSU",
+            "title": "Update Banking Information Preferences",
+            "ref": "0093429c-ffba-438d-8b1e-f5cbca8131ce",
+            "properties": {
+              "description": "How would you prefer to pass your new bank information to us? Each of these options is private and secure.",
+              "randomize": false,
+              "allow_multiple_selection": false,
+              "allow_other_choice": false,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "6rzWL3WfPUJs",
+                  "ref": "d3f8067d-4d32-46f6-b629-f80262bd820f",
+                  "label": "I will provide this info over the phone"
+                },
+                {
+                  "id": "Ng2kKbQHASzF",
+                  "ref": "de591f31-0ef1-4789-9cdc-82fd65e24bb6",
+                  "label": "Upload a picture of a voided check"
+                },
+                {
+                  "id": "tEwEfKm8Es6M",
+                  "ref": "a1a2102f-49a7-41d5-91a5-f4e69b9b1944",
+                  "label": "Enter my account & routing numbers manually"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "kZPnL5RtFrji",
+            "title": "Routing Number",
+            "ref": "1c40a914-e697-4939-82fc-8baa240b6f8f",
+            "properties": {
+              "description": "What is your bank's routing number?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "short_text",
+            "attachment": {
+              "type": "image",
+              "href": "https://images.typeform.com/images/qjh2UAj64dRn",
+              "properties": {
+                "description": "Routing, Account, and Check number visual"
+              }
+            },
+            "layout": {
+              "type": "float",
+              "attachment": {
+                "type": "image",
+                "href": "https://images.typeform.com/images/qjh2UAj64dRn",
+                "properties": {
+                  "brightness": 0,
+                  "description": "Routing, Account, and Check number visual"
+                }
+              },
+              "placement": "right"
+            }
+          },
+          {
+            "id": "nyLvbmyMfy4Z",
+            "title": "Account Number",
+            "ref": "1ffdf843-0524-43eb-8587-952f6a6b0f34",
+            "properties": {
+              "description": "What is your bank's Account number?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "short_text",
+            "attachment": {
+              "type": "image",
+              "href": "https://images.typeform.com/images/qjh2UAj64dRn",
+              "properties": {
+                "description": "Routing, Account, and Check number visual"
+              }
+            },
+            "layout": {
+              "type": "float",
+              "attachment": {
+                "type": "image",
+                "href": "https://images.typeform.com/images/qjh2UAj64dRn",
+                "properties": {
+                  "brightness": 0,
+                  "description": "Routing, Account, and Check number visual"
+                }
+              },
+              "placement": "right"
+            }
+          },
+          {
+            "id": "EO384DSNIMXw",
+            "title": "Voided Check Upload",
+            "ref": "781f3886-878b-4b1b-8c65-11cdb3ebf59a",
+            "properties": {
+              "description": "Tap \"Choose File\" to take a photo or upload a voided check."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "file_upload"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "xlcTqELGMLG6",
+      "title": "Family Information",
+      "ref": "c5278e20-ff48-415a-8cdf-439749f96692",
+      "properties": {
+        "description": "Now we'll ask some questions about your family. We may have some of this information already, but we like to confirm it every year.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "zMlrCybWBsXA",
+            "title": "Identity Protection PIN",
+            "ref": "1d851f89-8707-4c4a-95ab-ac57603cb0a1",
+            "properties": {
+              "description": "Have you or anyone in your household been a victim of identity theft and received an Identity Protection PIN?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "i79ejOEpdSZu",
+            "title": "Filing Status",
+            "ref": "01fb6e2c-be0b-4805-9aba-e1c58a458232",
+            "properties": {
+              "description": "How do you expect to file this year?\nCheck out the IRS definitions here: [IRS Filing Statuses](https://www.irs.gov/newsroom/choosing-the-correct-filing-status)",
+              "randomize": false,
+              "allow_multiple_selection": false,
+              "allow_other_choice": false,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "RK3UwUsoLtOL",
+                  "ref": "b4e543f5-cf43-437d-9c0f-04b4f52a7c68",
+                  "label": "Married, filing jointly"
+                },
+                {
+                  "id": "zJwPCnvoTiya",
+                  "ref": "e5c70863-01e3-4c8d-8141-4d1a053b7448",
+                  "label": "Married, filing separately"
+                },
+                {
+                  "id": "5Nr8MNfw4swo",
+                  "ref": "c131daba-54c5-40c9-906e-54af46ebe5cd",
+                  "label": "Single"
+                },
+                {
+                  "id": "epqQKFxFZxNH",
+                  "ref": "29db3ea3-5d68-4be5-b529-0c1a35d63696",
+                  "label": "Head of Household"
+                },
+                {
+                  "id": "c7Ro7rYisgpw",
+                  "ref": "7779ae67-2549-4e9b-b943-d350f9959ef1",
+                  "label": "I am not sure"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "t8wkvdeNnEhg",
+            "title": "Change in Family Situation",
+            "ref": "1fc4c6b0-b7b2-4d70-9547-927c5a078a2a",
+            "properties": {
+              "description": "Did your family situation change this year?\nEx: Marriage, divorce, death, new family member, foster child, etc."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "kA1jaNyPMA5X",
+            "title": "Family Situation Explained",
+            "ref": "41ec9c6f-5e1b-403f-87dd-53d96451a4d3",
+            "properties": {
+              "description": "Take a moment to explain how your family situation has changed.\nPlease include names, dates of birth, and other details about the new situation."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "long_text"
+          },
+          {
+            "id": "uNfzG0x9HAkH",
+            "title": "Household",
+            "ref": "fab50df7-88ca-4976-a2b9-28cba193b172",
+            "properties": {
+              "description": "Who is all in your house?\nWe may have this information already, but we like to double-check it each year.",
+              "randomize": false,
+              "allow_multiple_selection": true,
+              "allow_other_choice": false,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "Rhe6ThDTQKOu",
+                  "ref": "e8867428-0aeb-4086-9ae2-0f7e1a63341b",
+                  "label": "me"
+                },
+                {
+                  "id": "vgMndLCDvFQR",
+                  "ref": "d9002f14-7c95-45ef-8dd4-79fe4d1607a0",
+                  "label": "a spouse"
+                },
+                {
+                  "id": "MWRv8b8iIRr4",
+                  "ref": "19342911-d55e-48d9-8a38-e36196a5657e",
+                  "label": "children"
+                },
+                {
+                  "id": "I7SWDADPEBI5",
+                  "ref": "042c67b4-0c7e-43b4-b62c-1d162f34115d",
+                  "label": "other dependents (like a parent or grandchild)"
+                }
+              ]
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "umuYzUaxLTSt",
+            "title": "Spouse's Legal Name",
+            "ref": "a99f16a7-9df9-4a2a-bf28-43141e0ba610",
+            "properties": {
+              "description": "What is your spouse's full legal name?\nWe may have this information on file, but we like to verify it each year."
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "ojNO3l1qmZIj",
+            "title": "Spouse's Email Address",
+            "ref": "5d8f0a24-0c85-4262-9662-86a8fc3dc44f",
+            "properties": {
+              "description": "What is the best email address for {{field:a99f16a7-9df9-4a2a-bf28-43141e0ba610}}?\nWe will need to send them important documents for e-signature."
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "email"
+          },
+          {
+            "id": "AQqBVGnjlKkg",
+            "title": "Children's Legal Names & Birthdays",
+            "ref": "f89af581-24fd-4081-99e1-49535a14379d",
+            "properties": {
+              "description": "What are the full legal names and birthdays of your children?\nWe may have this information on file, but we like to verify it each year."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "long_text"
+          },
+          {
+            "id": "dG9ydFRwCGfL",
+            "title": "Other Dependents' Legal Names and Birthdays",
+            "ref": "85bf50a5-56ea-419b-8bc5-bbbaa507b928",
+            "properties": {
+              "description": "What are the full legal names of your other dependents?\nPlease list their full legal name, birth date, and relationship to you (brother, foster child, niece, mother, etc.)"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "long_text"
+          },
+          {
+            "id": "bpOVtGJJdWBg",
+            "title": "Dependent Tax Return Required",
+            "ref": "8e9ba533-22fa-451b-abc4-273e60ce1505",
+            "properties": {
+              "description": "Did any of your dependents earn more than $12,400 last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "yP4FXWWHjRNn",
+            "title": "Dependent Unearned Income Over Threshold",
+            "ref": "f68f9751-9910-486e-81c4-86b47b49cdb5",
+            "properties": {
+              "description": "Did any of your dependents have unearned income over $2,200?\nApplies to children under the age of 19 or full-time students under the age of 24."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "lKeQuV9dpboT",
+      "title": "Estimated Income Tax Payments",
+      "ref": "0f56fa05-5118-4760-a099-68ea41f40fae",
+      "properties": {
+        "description": "Some people pay estimated income tax payments. We'll ask you some questions about that in this section.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "TmkNZA8y7tZa",
+            "title": "Made Estimated Payments",
+            "ref": "950ef7e2-3b1d-43ae-95a2-cea2e78065f1",
+            "properties": {
+              "description": "Did you make any estimated income tax payments last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "gtVqsiAGLEWK",
+            "title": "All On-time Payments",
+            "ref": "58f2c5a4-2e41-492e-a6fe-aaaa05416e8c",
+            "properties": {
+              "description": "Did you make all the federal and state payments on time?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "Qr5UHf0vCzKN",
+            "title": "Estimated Payments Made",
+            "ref": "bf52b602-4b36-406d-a38b-5daaaa1d1baf",
+            "properties": {
+              "description": "Which estimated payments did you make last year?",
+              "randomize": false,
+              "allow_multiple_selection": true,
+              "allow_other_choice": false,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "zx1Fop1ej3Os",
+                  "ref": "8a1e58d4-f94f-4bf9-b338-62aa2dd2040d",
+                  "label": "Federal Q1"
+                },
+                {
+                  "id": "y7KdDgomv2eG",
+                  "ref": "8be039d5-1f93-4b3c-90ae-50eeebf3243b",
+                  "label": "Federal Q2"
+                },
+                {
+                  "id": "QbVYrBYf99wi",
+                  "ref": "f3a25a79-372f-459b-93bf-615bdc35efd3",
+                  "label": "Federal Q3"
+                },
+                {
+                  "id": "v4LFgRfCQjDN",
+                  "ref": "e047e676-a9ea-4bdb-970d-8526175cd93c",
+                  "label": "Federal Q4"
+                },
+                {
+                  "id": "Wol1ZbHkUGej",
+                  "ref": "a280583c-45b0-4f1e-8937-b92427f0a02b",
+                  "label": "State Q1"
+                },
+                {
+                  "id": "SqtqJhDRZGDx",
+                  "ref": "94bfea2b-8283-4c9a-86ee-e3da80e86efd",
+                  "label": "State Q2"
+                },
+                {
+                  "id": "qP7XWNCHWpqO",
+                  "ref": "dae1cc72-38d0-4664-8d36-2da0934bdc2d",
+                  "label": "State Q3"
+                },
+                {
+                  "id": "0ssb6etcJjZf",
+                  "ref": "8e1aee96-2545-4e3f-9515-f5e04cb07445",
+                  "label": "State Q4"
+                }
+              ]
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "LLbaaHehxSLR",
+            "title": "Federal Q1 Payment",
+            "ref": "8623f4e6-4f98-4839-9f6a-2d3cd0815739",
+            "properties": {
+              "description": "How much did you pay for Federal Q1?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "gS7EvzL8w90O",
+            "title": "Federal Q1 Payment Date",
+            "ref": "62894ffb-cc42-4fd1-8ae1-2aa1f9385f29",
+            "properties": {
+              "description": "When did you make your Federal Q1 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "oY9S1asAIZI3",
+            "title": "Federal Q2 Payment",
+            "ref": "20c1c0ae-6ce2-4ce6-b34f-29d742199818",
+            "properties": {
+              "description": "How much did you pay for Federal Q2?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "7MPQrU9yijNj",
+            "title": "Federal Q2 Payment Date",
+            "ref": "cdbb5d1a-53b1-40ef-83ba-9d175a6f494b",
+            "properties": {
+              "description": "When did you make your Federal Q2 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "yCb2MuPLMtgP",
+            "title": "Federal Q3 Payment",
+            "ref": "a5f6ce96-af27-418e-b42c-cd48eafbc754",
+            "properties": {
+              "description": "How much did you pay for Federal Q3?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "8gS2xGSY49GR",
+            "title": "Federal Q3 Payment Date",
+            "ref": "2e92aa4b-1f20-4d03-bec1-7cedf513c1e5",
+            "properties": {
+              "description": "When did you make your Federal Q3 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "88bk5C1gfQvd",
+            "title": "Federal Q4 Payment",
+            "ref": "be0f8abf-a88a-4a67-b64a-611f25da5fa2",
+            "properties": {
+              "description": "How much did you pay for Federal Q4?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "hlVDBj7joycD",
+            "title": "Federal Q4 Payment Date",
+            "ref": "0c98c238-d585-44ba-b540-faf7abf861c4",
+            "properties": {
+              "description": "When did you make your Federal Q4 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "2G6daZf7mPRz",
+            "title": "State Q1 Payment",
+            "ref": "e32c930c-04df-405c-812f-be42d1ddd600",
+            "properties": {
+              "description": "How much did you pay the state for Q1?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "ddxA9K9I7CPx",
+            "title": "State Q1 Payment Date",
+            "ref": "05e4287e-9d8c-4a72-b17d-153c9d7bd0ba",
+            "properties": {
+              "description": "When did you make your state Q1 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "yQV4Ag4jQkSK",
+            "title": "State Q2 Payment",
+            "ref": "f92fd3c5-16d4-44a7-b166-13bd78682f94",
+            "properties": {
+              "description": "How much did you the state for Q2?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "9dgp3KoPAuUt",
+            "title": "State Q2 Payment Date",
+            "ref": "6d1817a8-d279-451b-bf76-00dd501990e8",
+            "properties": {
+              "description": "When did you make your state Q2 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "GED2Nf1rExDK",
+            "title": "State Q3 Payment",
+            "ref": "331eabae-fec9-4423-b867-5bd628c34019",
+            "properties": {
+              "description": "How much did you the state for Q3?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "f0Ac0t3nj1wi",
+            "title": "State Q3 Payment Date",
+            "ref": "dd9c4d22-6934-4bce-bf15-9e643192946b",
+            "properties": {
+              "description": "When did you make your state Q3 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          },
+          {
+            "id": "PT5bIhRDyYNB",
+            "title": "State Q4 Payment",
+            "ref": "261e53a7-381d-4e8e-a60a-9d10487273ed",
+            "properties": {
+              "description": "How much did you the state for Q4?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "number"
+          },
+          {
+            "id": "x2CkssXC3t3P",
+            "title": "State Q4 Payment Date",
+            "ref": "148e2044-6038-40f9-a9cb-e9b015f748dc",
+            "properties": {
+              "description": "When did you make your state Q4 payment?",
+              "separator": "/",
+              "structure": "MMDDYYYY"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "date"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "zqHI4RJF3AJ3",
+      "title": "Income",
+      "ref": "6019897a-20af-4d7b-8a27-0bd8d9db38e5",
+      "properties": {
+        "description": "Thanks! Now we'll ask a few questions about your income.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "OZ1epnz7KK3l",
+            "title": "Foreign Trust Income",
+            "ref": "0f18814e-85e6-4d9d-9728-0eb9960d5397",
+            "properties": {
+              "description": "Did you receive a distribution from, or were you a grantor or transferor for a foreign trust?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "EafI0cGxXk6d",
+            "title": "Control of Foreign Accounts",
+            "ref": "33a032b6-0652-41c8-a249-c8c078744a6b",
+            "properties": {
+              "description": "Did you have a financial interest in or signature authority over a financial account such as a bank account, securities account, or brokerage account, located in a foreign country?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "61Egzhhh69x2",
+            "title": "Ownership of Foreign Accounts",
+            "ref": "0d84124e-5b41-4b44-bd81-526b3d16ae75",
+            "properties": {
+              "description": "Do you have any foreign financial accounts, foreign financial assets, or hold interest in a foreign entity?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "5xMQhhT1wkUm",
+            "title": "Disability Income",
+            "ref": "25fa351d-c9ac-4f72-9921-f74fc342e236",
+            "properties": {
+              "description": "Did anyone in your household receive disability income last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "W8nxmkDM2D3C",
+            "title": "Social Security Income",
+            "ref": "bfe93427-6159-409a-8620-6beb67b9cb39",
+            "properties": {
+              "description": "Did anyone in your household receive any social security benefits last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "KbC7v7ZHJLnB",
+            "title": "EIP #3",
+            "ref": "a6c092ac-f473-4b28-b445-3238c552935d",
+            "properties": {
+              "description": "Did anyone in your household receive a third-round stimulus payment (Economic Impact Payment) as reported on Form 1444-C?\n\nIf you are not sure, you can check [Your Online Account](https://www.irs.gov/payments/your-online-account) at the IRS."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "sF7CdRLFGIpF",
+            "title": "Unemployment Income",
+            "ref": "7df8dd63-2393-44ea-b3ab-8e6e8892b091",
+            "properties": {
+              "description": "Did anyone in your household receive any unemployment last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "B6atVBcerJTN",
+            "title": "Previous Refund Adjustments",
+            "ref": "4142c49e-533d-4595-96a0-ca46567b5140",
+            "properties": {
+              "description": "Did you receive an adjustment to your refund or balance due for the exclusion of\nunemployment compensation and/or Advance Premium Tax Credit as a result of\nthe American Rescue Plan Act (ARPA)?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "8BBPUkSPXxF3",
+            "title": "Advanced Child Tax Credit",
+            "ref": "3eed49a0-2b8e-45f5-99d8-82bfb2b587a2",
+            "properties": {
+              "description": "Did you receive advanced Child Tax Credit (CTC) payments in July, August, September, October, November, and December?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "nm8xgbyYs7cK",
+            "title": "Form W-2 Wages",
+            "ref": "1a5cb7b2-6b50-4599-8115-4b144660f366",
+            "properties": {
+              "description": "Did anyone in your household receive any regular wages this year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "H5qkMM7N7jGY",
+            "title": "1099 Income",
+            "ref": "21ae8d97-4613-40c9-b774-f7f0729fb808",
+            "properties": {
+              "description": "Did you receive any income considered to be nonemployee or miscellaneous compensation?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "9E1Y599Ug25L",
+            "title": "Life Insurance Mature or Surrender",
+            "ref": "32f75a7f-79c2-4d1e-a82b-13f0b26a97e3",
+            "properties": {
+              "description": "Did any of your life insurance policies mature, or did you surrender any policies?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "zQkNIUZ68hdg",
+            "title": "Gambling and other income",
+            "ref": "a5aa5382-128b-4497-be00-75371ae8fe64",
+            "properties": {
+              "description": "Did you receive any awards, prizes, hobby income, gambling, or lottery winnings?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "fnUy3gVOxQKd",
+      "title": "Expenses",
+      "ref": "3642f0c5-853c-49ad-a189-9556b0f4c606",
+      "properties": {
+        "description": "Now we'll ask you some questions about expenses you've had this year.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "Gl2RifljeOQQ",
+            "title": "Moving Expenses",
+            "ref": "61582112-bd00-4f3c-b72d-9844d2003d12",
+            "properties": {
+              "description": "Did you incur moving costs because of a permanent change of station as a member of the Armed Forces on active duty?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "rhumfcyC2EP3",
+            "title": "Moving Expense Detail",
+            "ref": "a12b2b83-245c-4f5f-a855-54a41b7457bc",
+            "properties": {
+              "description": "How much did you spend on moving expenses"
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "HfS4xMasiAbS",
+            "title": "Household Employee",
+            "ref": "5c00a0ed-ddbd-4895-b26a-e5a1ce50f503",
+            "properties": {
+              "description": "Did you pay any individual as a household employee during the year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "fr6zhAGGbly4",
+            "title": "Energy Efficiency Improvements",
+            "ref": "0c869431-7c70-42a0-a2a4-14e11d7dd020",
+            "properties": {
+              "description": "Did you make energy-efficient improvements to your main home this year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "6uCIL1cxJhux",
+            "title": "Real Estate Taxes (Primary/Second Home)",
+            "ref": "7e0ac40e-b672-432e-b52d-53ea6a1b034e",
+            "properties": {
+              "description": "Did you pay real estate taxes for your primary and/or second home last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "UYI2GtgFcL7o",
+            "title": "Mortgage Interest",
+            "ref": "fc70fd12-80d3-47ab-aaab-68289e8cd2f1",
+            "properties": {
+              "description": "Did you pay any mortgage interest on an existing home loan last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "lPxgyumpHTBD",
+            "title": "Investment Interest Expense",
+            "ref": "9f89e302-7f30-48d1-a2da-597ecd436bd7",
+            "properties": {
+              "description": "Did you incur interest expenses associated with investment accounts you held?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "mtkigZSigG33",
+            "title": "Major Purchases",
+            "ref": "f104f8d2-76f3-4b03-a9ba-e131608b994f",
+            "properties": {
+              "description": "Did you make any major purchases last year? \nExamples: Car, boat, etc. Link: [More information](https://www.irs.gov/pub/irs-news/fs-06-09.pdf)"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "wVjMIu0yhnm3",
+            "title": "Medical Expenses",
+            "ref": "9ec08fdf-9781-47d9-8d26-ebb9000a76f8",
+            "properties": {
+              "description": "Did you pay out-of-pocket medical expenses last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "HWftX9RoOqhP",
+            "title": "Medical Expense Detail",
+            "ref": "4e3a8fe3-29d6-4837-873b-59665b80c1e6",
+            "properties": {
+              "description": "How much did you spend on medical expenses last year?"
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "hGabGFSKKJea",
+            "title": "Charity",
+            "ref": "c8a32571-ceff-4452-b09c-ee2943769c4f",
+            "properties": {
+              "description": "Did you contribute cash or other goods to a non-profit charity last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "DYRro6dgjCZ9",
+            "title": "Charity Detail",
+            "ref": "bd897dde-c0ff-47ae-b376-de38c2c811fc",
+            "properties": {
+              "description": "How much did donate to charity last year?"
+            },
+            "validations": {
+              "required": false
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "czP5OkJgQoOc",
+            "title": "Vehicle Donations",
+            "ref": "e51574e1-7c65-46e6-a435-a8a3244bd47e",
+            "properties": {
+              "description": "Did you donate a vehicle or boat last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "vVtw9LmNEZQy",
+            "title": "Long-term Care Premiums",
+            "ref": "f22b9b30-0803-4c2a-bdc6-51f72a201c56",
+            "properties": {
+              "description": "Did you pay long-term care premiums for yourself or your family?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "ftoD63lQ4we9",
+            "title": "Health Care Coverage",
+            "ref": "5e7a6afa-74af-4210-af8f-1c49949642e9",
+            "properties": {
+              "description": "Do you have health coverage through your employer or through one of the healthcare exchanges?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "TlWjjEzJLbyk",
+            "title": "Educational Savings Account",
+            "ref": "56471ba8-9849-44c4-af19-0ca51450f113",
+            "properties": {
+              "description": "Do you have an Educational Savings or 529 Plan Account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "L3odM1Q1K5AX",
+            "title": "Educational Savings Plan Contributions",
+            "ref": "ab6c76cf-52c7-4860-a7ef-3c49e4fa09aa",
+            "properties": {
+              "description": "Did you make any contributions to an education savings or 529 Plan account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "ggqDzbZ4PMCM",
+            "title": "Educational Savings Plan Withdraws",
+            "ref": "c58132b1-d72f-4cfd-bc29-b64b9004ce1a",
+            "properties": {
+              "description": "Did you make any withdrawals from an education savings or 529 Plan account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "BNEStNsrsYFS",
+            "title": "Student Loan Interest",
+            "ref": "82169922-b6f7-47de-aafb-ac1e810a3514",
+            "properties": {
+              "description": "Did you pay any student loan interest last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "SuqNVENmEzuh",
+            "title": "Childcare for Work",
+            "ref": "4beefdab-8cc2-41ca-a001-20993e6aca2a",
+            "properties": {
+              "description": "Did you have to pay for childcare while you worked or went to school?\nLooking for work counts as work in this case."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "rDiItek9hFPs",
+            "title": "Adoption Expenses",
+            "ref": "cd1746c9-20bb-41ae-9d9b-b88447471969",
+            "properties": {
+              "description": "Did you pay any expenses related to adoption last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "FFfgYrMk1ovD",
+            "title": "Post-secondary Education Attendance",
+            "ref": "f595c573-f21a-40f4-99a9-2d8d0d084673",
+            "properties": {
+              "description": "Did anyone in your household attend a post-secondary school during the year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "yKCEJvKFrId9",
+            "title": "Education Expenses",
+            "ref": "18a9d101-4990-40ed-a9d8-b38d6ec84035",
+            "properties": {
+              "description": "Did you have any educational expenses during the year on behalf of yourself or anyone in your household?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "xFMLs2N9D2wW",
+      "title": "Investments",
+      "ref": "5a50bc8c-f524-4a9e-bbd8-aff77f65890f",
+      "properties": {
+        "description": "Next up, a few questions about your investments.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "PDwvtEKIOI1X",
+            "title": "HSA, Archer MSA, Medicare Advantage MSA",
+            "ref": "12eb68ce-15e4-42bd-9c3f-45299d7b3bf6",
+            "properties": {
+              "description": "Do you have a health savings account (HSA), Archer MSA, or Medicare Advantage MSA?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "M6mZIy4aqVVq",
+            "title": "Health Account Contributions",
+            "ref": "cc8ae0c6-f374-4e67-99d1-b64dde84c24d",
+            "properties": {
+              "description": "Did you make any contributions to a Health savings account (HSA) or Archer MSA?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "8MmMlF4LWlfh",
+            "title": "Health Account Distributions",
+            "ref": "fddbf071-0e51-4e4c-ad5d-7a80b2b048cf",
+            "properties": {
+              "description": "Did you receive any distributions from a Health savings account (HSA), Archer MSA, or Medicare Advantage MSA last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "cDAEuMMkKdCc",
+            "title": "Savings Bonds Cashed",
+            "ref": "07218fc4-4282-4fff-bcfe-0666e2ff772d",
+            "properties": {
+              "description": "Did you cash any Series EE or I U.S. Savings bonds issued after 1989?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "irPmOvJJOreP",
+            "title": "Stocks Acquired/Disposed",
+            "ref": "bce0c739-88bb-4602-a5d7-383a3adcefad",
+            "properties": {
+              "description": "did you acquire or dispose of any stock during the year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "jHjLNDH1AHVl",
+            "title": "Debts Forgiven",
+            "ref": "b3b0d41b-1f35-4b26-bddf-9c4d272b6410",
+            "properties": {
+              "description": "Did you have debts canceled or forgiven last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "eGltMtNEzwBC",
+            "title": "Electric Vehicle Purchase",
+            "ref": "f7fb3728-1b49-4039-a477-e65a09c890f6",
+            "properties": {
+              "description": "Did you purchase a qualifying electric vehicle last year?\nMore Information: [IRS Approved Vehicles](https://www.irs.gov/businesses/irc-30d-new-qualified-plug-in-electric-drive-motor-vehicle-credit)"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "tJgLBbazA0sD",
+            "title": "Foreign Income and Taxes",
+            "ref": "92474f91-9b47-4ec2-8afd-b1962fc99e4c",
+            "properties": {
+              "description": "Did you have any foreign income or pay any foreign taxes during the year, directly or indirectly, such as from investment accounts, partnerships, or a foreign employer?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "E3SwkwRHKEu2",
+            "title": "CryptoCurrency Activity",
+            "ref": "c7dce7b3-7cc4-4041-9594-ad035b3d239d",
+            "properties": {
+              "description": "Did you buy, sell, or use CryptoCurrencies to buy goods or services last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "h0SKCvo2sIHM",
+      "title": "Real Estate",
+      "ref": "87e0338a-d336-4f6b-9dfd-271da3a73385",
+      "properties": {
+        "description": "Now we'll ask you some questions about real estate.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "RsXKlvY5oiWB",
+            "title": "Rent or Own",
+            "ref": "c1f15aec-dbec-4265-8c87-7fcb51d875fa",
+            "properties": {
+              "description": "Do you rent or own your primary residence last year?",
+              "randomize": false,
+              "allow_multiple_selection": false,
+              "allow_other_choice": true,
+              "vertical_alignment": true,
+              "choices": [
+                {
+                  "id": "H9DRNj508gG5",
+                  "ref": "5e6beaf3-be07-49d0-87a0-6db2edf43386",
+                  "label": "Rent"
+                },
+                {
+                  "id": "bA5MylRSmImq",
+                  "ref": "ba2c92d8-ca83-4628-b0cd-f7f23d2ae200",
+                  "label": "Own"
+                },
+                {
+                  "id": "8J3h0SPzb81K",
+                  "ref": "f214ae08-ec7a-4157-8eb6-f0b6078988da",
+                  "label": "Both"
+                }
+              ]
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "multiple_choice"
+          },
+          {
+            "id": "wQapOjsIwiUI",
+            "title": "Refinanced",
+            "ref": "b2c620d2-0b42-4be0-a758-5aada7602197",
+            "properties": {
+              "description": "Did you refinance or take out a home equity line of credit last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "kliAzkyAWpHx",
+            "title": "Real Estate Purchase",
+            "ref": "fa5ca868-145b-4cc6-a9bf-891f5b7230a3",
+            "properties": {
+              "description": "Did you buy or sell a primary residence or rental property last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "99es0PrtxJsY",
+            "title": "Residual Revenue from Sale of Property",
+            "ref": "73e231cb-e9db-4663-8b5a-e7981d19007b",
+            "properties": {
+              "description": "Did you sell a property prior to last year but received some of the income last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "rbGjrxIdii9n",
+            "title": "Foreclosures",
+            "ref": "9044aeb7-c317-4442-a600-9c344ca9d694",
+            "properties": {
+              "description": "Did you abandon or have a foreclosure on a primary residence or investment property last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "ZBFyuHa2pYWi",
+            "title": "Please Explian",
+            "ref": "24dc0124-596f-46bc-87c8-6dbd824e1b96",
+            "properties": {
+              "description": "Please briefly explain the situation."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "long_text"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "W60S77h5joPv",
+      "title": "Business",
+      "ref": "567890f6-e687-4801-9f35-9651d59d1df2",
+      "properties": {
+        "description": "Some people run their own businesses. In this section, we'll ask you some questions about that.",
+        "button_text": "Next",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "8jkdOVIIhf78",
+            "title": "Business Activity",
+            "ref": "0b47ef3c-1aed-4375-8dab-94f53ddcfbd0",
+            "properties": {
+              "description": "Did you start, own, or were you a part owner in a business last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "pd1xx13Htzb1",
+            "title": "Home Office Expenses",
+            "ref": "7052b94d-964d-454d-8fab-c64ca5073cec",
+            "properties": {
+              "description": "Did you use any part of your home for business last year?\nThis would include any office or computer work while at home."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "VWrmU9FwLq3z",
+            "title": "Paid Employee Healthcare",
+            "ref": "bd1bd27f-2819-4ee3-84e1-9efe5662e9b9",
+            "properties": {
+              "description": "Did you pay health insurance premiums for your employees last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "t3dfcJW6Tol2",
+            "title": "Paid Employee Detail",
+            "ref": "7b936242-f461-4332-b9ff-e04a830a15a5",
+            "properties": {
+              "description": "How much did you pay for employee healthcare?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "short_text"
+          },
+          {
+            "id": "ugbDNniOct3w",
+            "title": "Received Health Coverage Tax Credit",
+            "ref": "de00ff8e-1d7e-463f-83ce-8593f9f685d4",
+            "properties": {
+              "description": "Did you receive any Health Coverage Tax Credit (HCTC) advance payments?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "XK1AmxCCgHme",
+            "title": "New S-Corp Ownership",
+            "ref": "9b2d0cc5-23ac-4c55-a4a1-b8368966bb9f",
+            "properties": {
+              "description": "Did you acquire a new or additional interest in a partnership or S-Corporation last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "QgmF3yJ5fjCQ",
+            "title": "Business Asset Purchases",
+            "ref": "2f118225-446d-42a8-9ed9-4c64c94d5290",
+            "properties": {
+              "description": "Did you sell, exchange, or buy business assets last year?\nEx: Furniture, equipment, patents, etc."
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    },
+    {
+      "id": "QZmSWHSGFjnW",
+      "title": "Retirement",
+      "ref": "13d3c8fe-63f1-4f29-9c88-9ca32dec5e27",
+      "properties": {
+        "description": "Last section. 😀 Now we'll ask you a few questions about retirement.",
+        "button_text": "Let's do it",
+        "show_button": true,
+        "fields": [
+          {
+            "id": "eeQxikRRY5Ik",
+            "title": "Job Change",
+            "ref": "170d13e2-a156-49bb-a206-ab61ab76f571",
+            "properties": {
+              "description": "Did you retire or change jobs last year?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "mprA7h4VA9Aq",
+            "title": "ABLE Account",
+            "ref": "412a14b0-23e1-454e-a608-be5272731bfb",
+            "properties": {
+              "description": "Do you have an ABLE (Achieving a Better Life Experience) account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "KeO0MRJhKyWL",
+            "title": "ABLE Contributions",
+            "ref": "3f5af33c-ca1f-45c0-8de1-b53c388205b6",
+            "properties": {
+              "description": "Did you make any contributions to an ABLE (Achieving a Better Life Experience) account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "u417Iefbjt7a",
+            "title": "ABLE Withdrawls",
+            "ref": "ab928117-69f7-4d46-9245-d21c517a8557",
+            "properties": {
+              "description": "Did you receive any withdrawals from an ABLE (Achieving a Better Life Experience) account?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "t5WhRVM5ycu9",
+            "title": "Retirement Plan Participation",
+            "ref": "28b6eb65-f44b-487e-8e3e-3832a5823e19",
+            "properties": {
+              "description": "Are you an active participant in a pension or retirement plan?\nEx: 401k, IRA, Pension, or other retirement plans"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "191MiWAgjOCX",
+            "title": "Retirement Account Contributions",
+            "ref": "67d94e3f-cb7d-4d0a-beae-cca8bc5b4f1e",
+            "properties": {
+              "description": "Did you make any contributions to a qualified retirement plan?\nEx: IRA, Roth, myRA, Keogh, SIMPLE, SEP, 401(k), or another qualified retirement plan"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "NrtBFjgfha3D",
+            "title": "Retirement Account Withdrawals",
+            "ref": "c8bcbedb-efa5-46d8-9ab5-2618dea7f81a",
+            "properties": {
+              "description": "Did you make any withdrawals from a qualified retirement plan?\nEx: IRA, Roth, myRA, Keogh, SIMPLE, SEP, 401(k), or another qualified retirement plan"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          },
+          {
+            "id": "MOBKapVwJWyX",
+            "title": "Retirement Account Lump-sum Payments",
+            "ref": "e39d5a63-a031-43b3-83e0-a2c6eb938a0d",
+            "properties": {
+              "description": "Did you receive any lump-sum payments from a pension, profit-sharing, or 401(k) plan?"
+            },
+            "validations": {
+              "required": true
+            },
+            "type": "yes_no"
+          }
+        ]
+      },
+      "type": "group"
+    }
+  ]
+}
